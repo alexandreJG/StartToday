@@ -12,13 +12,13 @@ Städte und Institutionen können sich verifiziert anmelden und so auf "Augenhö
 
 
 
-Hochgeladene Inhalte:
+##### Hochgeladene Inhalte:
 * [Prototyp](https://github.com/alexandreJG/Starttoday/blob/main/Haaackathon.fig)
 * [Vorstellungspräsentation](https://github.com/alexandreJG/Starttoday/blob/main/Mesh_2021_s03_Starttoday_v5.pdf)
 * [Business Case](https://github.com/alexandreJG/Starttoday/blob/main/Businessplan.pdf)
 
+##### Name des Teams und der einzelnen Teammitglieder
 **Starttoday**
-
 *Mitglieder*
 * Alexandre Jácobo Goebbels - Angewandte Informatik
 * Colin Seiferling          - BWL Marketing Management 
